@@ -34,6 +34,8 @@ The analysis successfully calculated the prevalence rates, demonstrating the eff
 * **Employment/Financial Risk:** 20%
 * **Substance Use Risk:** 60%
 
+![SDOH Risk Prevalence Chart](sdoh_risk_prevalence_chart.png)
+
 > **Conclusion:** The successful implementation of this **PySpark PoC** confirms the pipeline's readiness to scale to millions of patient records, converting unstructured clinical documentation into vital, actionable intelligence for optimizing patient outcomes and resource allocation.
 
 ---
