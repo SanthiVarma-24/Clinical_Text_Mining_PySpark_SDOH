@@ -42,7 +42,7 @@ The analysis successfully calculated the prevalence rates, demonstrating the eff
 
 ## 💡 How to Run the Code
 
-This project is contained within the notebook file: `Clinical_Text_Mining_Project`
+This project is contained within the notebook file: https://github.com/SanthiVarma-24/Clinical_Text_Mining_PySpark_SDOH/blob/main/clinical_text_mining_project%202025-11-27%2015%3A13%3A31.ipynb
 
 To run the code:
 1.  Clone this repository into a **Databricks Git Folder**.
